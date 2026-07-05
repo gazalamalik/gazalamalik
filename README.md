@@ -2,14 +2,8 @@
   <img src="images/banner.png" width="100%" alt="Gazala Malik Banner"/>
 </p>
 
-<h2 align="center">Hi there! 👋 I'm Gazala Malik</h2>
-
 <p align="center">
 Senior Software Engineer • .NET Full Stack Developer
-</p>
-
-<p align="center">
-📍 Delhi, India &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Around 5 Years Experience
 </p>
 
 <p align="center">
